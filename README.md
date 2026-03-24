@@ -31,7 +31,7 @@ This project trains a fully connected neural network to classify 28×28 grayscal
 
 - **Loss function:** Sparse Categorical Crossentropy
 - **Optimizer:** SGD
-- **Epochs:** 30
+- **Epochs:** 50
 
 ## Dataset Split
 
